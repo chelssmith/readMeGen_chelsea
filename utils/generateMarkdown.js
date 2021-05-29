@@ -20,13 +20,51 @@ ${data.description}
 
 * [Installation](#installation)
 
-
 ## Installation
 
 To installl....
 
 ${data.install}
 
+* [Usage](#usage)
+
+## Usage
+
+To use...
+
+${data.usage}
+
+* [License](#license)
+
+## License
+
+Licenses used...
+
+${data.license}
+
+* [Contributing](#contributing)
+
+## Contributing
+
+Contributions...
+
+${data.contributing}
+
+* [Tests](#tests)
+
+## Tests
+
+Tests ran...
+
+${data.tests}
+
+* [Questions](#questions)
+
+## Questions
+
+Questions asked...
+
+${data.questions}
 `;
 }
 

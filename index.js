@@ -6,8 +6,6 @@ const generateMarkdown = require('./utils/generateMarkdown');
 // TODO create an array of questions for user input 
 // generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
 
-
-
 const questions = [
     {
         type: "input",
